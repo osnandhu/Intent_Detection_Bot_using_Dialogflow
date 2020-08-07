@@ -1,0 +1,93 @@
+[
+  {
+    "id": "139b2a75-641e-4ef9-851b-2212b935c23d",
+    "data": [
+      {
+        "text": "restart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d87dbae-e8b9-409a-b6e3-cde5e381c32f",
+    "data": [
+      {
+        "text": "cancel order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9dd40002-5d2d-4761-b244-2bcbd42ff045",
+    "data": [
+      {
+        "text": "delete basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43e8a232-7e56-4fdd-a4e3-fe926b45f404",
+    "data": [
+      {
+        "text": "empty basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a4123df-3f21-4490-a03a-74551a780d63",
+    "data": [
+      {
+        "text": "cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94f29e6e-ef4f-426c-ba96-74e6330efc23",
+    "data": [
+      {
+        "text": "start over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23a51f3e-106f-4666-bb74-b1a3cfa4f3e5",
+    "data": [
+      {
+        "text": "reset",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "b4fdf01c-a427-43f6-ab40-aa1ea505c6fc",
+  "name": "business_ent",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

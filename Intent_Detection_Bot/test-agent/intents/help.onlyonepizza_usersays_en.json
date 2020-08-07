@@ -1,0 +1,143 @@
+[
+  {
+    "id": "ee77a383-0acb-4178-b307-c169cee5aa42",
+    "data": [
+      {
+        "text": " can i have 3 ",
+        "userDefined": false
+      },
+      {
+        "text": "pepperonis",
+        "meta": "@pizza-type",
+        "alias": "pizza-type-1",
+        "userDefined": true
+      },
+      {
+        "text": " and 3 ",
+        "userDefined": false
+      },
+      {
+        "text": "margaritas",
+        "meta": "@pizza-type",
+        "alias": "pizza-type-2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b361d00b-1dad-4bc9-a8a9-4fcf9a1076ba",
+    "data": [
+      {
+        "text": "chicken",
+        "meta": "@pizza-type",
+        "alias": "pizza-type-1",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "salami",
+        "meta": "@pizza-type",
+        "alias": "pizza-type-2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f251a64-a936-45ca-8829-3ff521da39bb",
+    "data": [
+      {
+        "text": "I would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "margherita",
+        "meta": "@pizza-type",
+        "alias": "pizza-type-1",
+        "userDefined": true
+      },
+      {
+        "text": " and a ",
+        "userDefined": false
+      },
+      {
+        "text": "salami",
+        "meta": "@pizza-type",
+        "alias": "pizza-type-2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cac476d-8030-421c-9412-390ce86d5140",
+    "data": [
+      {
+        "text": "Give me a pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "funghi",
+        "meta": "@pizza-type",
+        "alias": "pizza-type-1",
+        "userDefined": true
+      },
+      {
+        "text": " and a ",
+        "userDefined": false
+      },
+      {
+        "text": "pepperoni",
+        "meta": "@pizza-type",
+        "alias": "pizza-type-2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3aa248b4-92bb-4398-8389-7ac2a55fce80",
+    "data": [
+      {
+        "text": "I want one pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "margherita",
+        "meta": "@pizza-type",
+        "alias": "pizza-type-1",
+        "userDefined": true
+      },
+      {
+        "text": " and one pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "pepperoni",
+        "meta": "@pizza-type",
+        "alias": "pizza-type-2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

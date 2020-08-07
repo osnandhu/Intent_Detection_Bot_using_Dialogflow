@@ -1,0 +1,313 @@
+[
+  {
+    "value": "Americana",
+    "synonyms": [
+      "Americana"
+    ]
+  },
+  {
+    "value": "Bismarck",
+    "synonyms": [
+      "Bismarck"
+    ]
+  },
+  {
+    "value": "Boscaiola",
+    "synonyms": [
+      "Boscaiola"
+    ]
+  },
+  {
+    "value": "Braccio di Ferro",
+    "synonyms": [
+      "Braccio di Ferro"
+    ]
+  },
+  {
+    "value": "Bufalina",
+    "synonyms": [
+      "Bufalina"
+    ]
+  },
+  {
+    "value": "Calzone",
+    "synonyms": [
+      "Calzone",
+      "folded pizza"
+    ]
+  },
+  {
+    "value": "Campagnola",
+    "synonyms": [
+      "Campagnola"
+    ]
+  },
+  {
+    "value": "Caprese",
+    "synonyms": [
+      "Caprese"
+    ]
+  },
+  {
+    "value": "Capricciosa",
+    "synonyms": [
+      "Capricciosa"
+    ]
+  },
+  {
+    "value": "Carbonara",
+    "synonyms": [
+      "Carbonara"
+    ]
+  },
+  {
+    "value": "Chicken BBC",
+    "synonyms": [
+      "Chicken",
+      "Chicken BBC",
+      "Chicken Barbecue",
+      "barbecue"
+    ]
+  },
+  {
+    "value": "Contadina",
+    "synonyms": [
+      "Contadina"
+    ]
+  },
+  {
+    "value": "Crudo",
+    "synonyms": [
+      "Crudo"
+    ]
+  },
+  {
+    "value": "Diavola",
+    "synonyms": [
+      "Diavola"
+    ]
+  },
+  {
+    "value": "Emiliana",
+    "synonyms": [
+      "Emiliana"
+    ]
+  },
+  {
+    "value": "Fattoria",
+    "synonyms": [
+      "Fattoria"
+    ]
+  },
+  {
+    "value": "Fiori di zucca",
+    "synonyms": [
+      "Fiori di zucca"
+    ]
+  },
+  {
+    "value": "Fontana",
+    "synonyms": [
+      "Fontana"
+    ]
+  },
+  {
+    "value": "Francescana",
+    "synonyms": [
+      "Francescana"
+    ]
+  },
+  {
+    "value": "Frutti di Mare",
+    "synonyms": [
+      "Frutti di Mare"
+    ]
+  },
+  {
+    "value": "Gorgonzola",
+    "synonyms": [
+      "Gorgonzola"
+    ]
+  },
+  {
+    "value": "Mare e Monti",
+    "synonyms": [
+      "Mare e Monti"
+    ]
+  },
+  {
+    "value": "Marinara",
+    "synonyms": [
+      "Marinara"
+    ]
+  },
+  {
+    "value": "Mediterranea",
+    "synonyms": [
+      "Mediterranea"
+    ]
+  },
+  {
+    "value": "Mimosa",
+    "synonyms": [
+      "Mimosa"
+    ]
+  },
+  {
+    "value": "Montanara",
+    "synonyms": [
+      "Montanara"
+    ]
+  },
+  {
+    "value": "Napoletana or Napoli",
+    "synonyms": [
+      "Napoletana or Napoli"
+    ]
+  },
+  {
+    "value": "Ortolana",
+    "synonyms": [
+      "Ortolana"
+    ]
+  },
+  {
+    "value": "Padana",
+    "synonyms": [
+      "Padana"
+    ]
+  },
+  {
+    "value": "Parmigiana",
+    "synonyms": [
+      "Parmigiana"
+    ]
+  },
+  {
+    "value": "Pizza al Pesto",
+    "synonyms": [
+      "Pizza al Pesto",
+      "al pesto"
+    ]
+  },
+  {
+    "value": "Pizza tartufata",
+    "synonyms": [
+      "tartufata",
+      "truffle"
+    ]
+  },
+  {
+    "value": "Prosciutto",
+    "synonyms": [
+      "Cardinale",
+      "Prosciutto"
+    ]
+  },
+  {
+    "value": "Prosciutto e Funghi",
+    "synonyms": [
+      "Prosciutto e Funghi",
+      "prosciutto"
+    ]
+  },
+  {
+    "value": "Pugliese",
+    "synonyms": [
+      "Pugliese"
+    ]
+  },
+  {
+    "value": "Quattro Formaggi",
+    "synonyms": [
+      "Quattro Formaggi"
+    ]
+  },
+  {
+    "value": "Quattro Stagioni",
+    "synonyms": [
+      "Quattro Stagioni"
+    ]
+  },
+  {
+    "value": "Ricotta e Spinaci",
+    "synonyms": [
+      "Ricotta e Spinaci",
+      "ricotta and spinach",
+      "spinach"
+    ]
+  },
+  {
+    "value": "Romana",
+    "synonyms": [
+      "Romana"
+    ]
+  },
+  {
+    "value": "Rustica",
+    "synonyms": [
+      "Rustica"
+    ]
+  },
+  {
+    "value": "Salami",
+    "synonyms": [
+      "Salami",
+      "salame"
+    ]
+  },
+  {
+    "value": "Sarda",
+    "synonyms": [
+      "Sarda"
+    ]
+  },
+  {
+    "value": "Schiacciata",
+    "synonyms": [
+      "Schiacciata"
+    ]
+  },
+  {
+    "value": "Tedesca",
+    "synonyms": [
+      "Tedesca"
+    ]
+  },
+  {
+    "value": "Tirolese",
+    "synonyms": [
+      "Tirolese"
+    ]
+  },
+  {
+    "value": "Tonno",
+    "synonyms": [
+      "Tonno"
+    ]
+  },
+  {
+    "value": "Tricolore",
+    "synonyms": [
+      "Tricolore"
+    ]
+  },
+  {
+    "value": "Valdostana",
+    "synonyms": [
+      "Valdostana"
+    ]
+  },
+  {
+    "value": "Valtellina",
+    "synonyms": [
+      "Valtellina"
+    ]
+  },
+  {
+    "value": "Vegetariana",
+    "synonyms": [
+      "Vegetariana"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "35253a39-77a2-462a-afc0-2f75379832b3",
+  "name": "business_facility",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

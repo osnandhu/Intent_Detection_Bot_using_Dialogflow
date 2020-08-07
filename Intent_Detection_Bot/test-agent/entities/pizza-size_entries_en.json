@@ -1,0 +1,87 @@
+[
+  {
+    "value": "10\u0027\u0027",
+    "synonyms": [
+      "10 inch",
+      "10\u0027\u0027",
+      "S",
+      "size S",
+      "small",
+      "ten inch"
+    ]
+  },
+  {
+    "value": "12\u0027\u0027",
+    "synonyms": [
+      "12 inch",
+      "12\u0027\u0027",
+      "M",
+      "medium",
+      "normal",
+      "size M",
+      "standard",
+      "standard size",
+      "standard sized",
+      "twelve inch"
+    ]
+  },
+  {
+    "value": "14\u0027\u0027",
+    "synonyms": [
+      "14 inch",
+      "14\u0027\u0027",
+      "L",
+      "large",
+      "size L",
+      "big"
+    ]
+  },
+  {
+    "value": "16\u0027\u0027",
+    "synonyms": [
+      "16 inch",
+      "16\u0027\u0027",
+      "XL",
+      "extra large",
+      "size XL",
+      "extra big"
+    ]
+  },
+  {
+    "value": "18\u0027\u0027",
+    "synonyms": [
+      "18 inch",
+      "18\u0027\u0027",
+      "XXL",
+      "family",
+      "family size",
+      "jumbo",
+      "size XXL",
+      "super big"
+    ]
+  },
+  {
+    "value": "21\u0027\u0027",
+    "synonyms": [
+      "21 inch",
+      "21\u0027\u0027",
+      "XXXL",
+      "colossal",
+      "size XXXL",
+      "gigantic"
+    ]
+  },
+  {
+    "value": "7\u0027\u0027",
+    "synonyms": [
+      "7 inch",
+      "7\u0027\u0027",
+      "XS",
+      "extra small",
+      "mini",
+      "personal",
+      "seven inch",
+      "size XS"
+    ]
+  }
+]

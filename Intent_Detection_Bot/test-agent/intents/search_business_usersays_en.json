@@ -1,0 +1,1455 @@
+[
+  {
+    "id": "c18d48fe-dc7b-46c7-8a5a-131667361e7d",
+    "data": [
+      {
+        "text": "get me some info on ",
+        "userDefined": false
+      },
+      {
+        "text": "Found Farmers",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "DC",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "574caf41-f311-42ab-a4f0-cbd030615e86",
+    "data": [
+      {
+        "text": "get me some info on ",
+        "userDefined": false
+      },
+      {
+        "text": "Found Farmers",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe1dbb6c-b095-45bb-a9f6-d4f09c179cab",
+    "data": [
+      {
+        "text": "show me information on ",
+        "userDefined": false
+      },
+      {
+        "text": "Indique",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " restuarant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15666c3e-3d9f-4524-85e5-044904f02fbf",
+    "data": [
+      {
+        "text": "show me information on ",
+        "userDefined": false
+      },
+      {
+        "text": "Indique",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " restaurant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca2280e4-9782-4311-875a-661284d7ea21",
+    "data": [
+      {
+        "text": "show me information on ",
+        "userDefined": false
+      },
+      {
+        "text": "Indique",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f07a7cd-adc0-4278-98eb-c474240d6378",
+    "data": [
+      {
+        "text": "show me info on ",
+        "userDefined": false
+      },
+      {
+        "text": "Burger King",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " near me on ",
+        "userDefined": false
+      },
+      {
+        "text": "connecticut ave dc",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "898367dd-c06f-4c5a-aa54-76b0d519da3a",
+    "data": [
+      {
+        "text": "show me some details for ",
+        "userDefined": false
+      },
+      {
+        "text": "Rock On Pizza",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Escondido, California",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a45b0042-2fe1-4cc5-b9f6-f269231765a7",
+    "data": [
+      {
+        "text": "Show me info on ",
+        "userDefined": false
+      },
+      {
+        "text": "2 Amys",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "DC",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10e8fe7d-21f9-4bc4-b531-bf356d3f4c85",
+    "data": [
+      {
+        "text": "How is ",
+        "userDefined": false
+      },
+      {
+        "text": "2 Amys",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "DC",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7918cd88-8d2e-4855-a98e-9d2547a25f35",
+    "data": [
+      {
+        "text": "How is ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian Pizza Kitchen",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "DC",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a932ca1f-9b7e-488e-bb7e-8a64826a364c",
+    "data": [
+      {
+        "text": "Give me details on ",
+        "userDefined": false
+      },
+      {
+        "text": "Tino’s Pizzeria",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3ff1cae-b1cb-46f8-aa3b-8e39767f369e",
+    "data": [
+      {
+        "text": "find me info on ",
+        "userDefined": false
+      },
+      {
+        "text": "Pizzeria Paradiso",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9092ab71-9020-4b43-b4f8-65d850959f0b",
+    "data": [
+      {
+        "text": "Show me some info on ",
+        "userDefined": false
+      },
+      {
+        "text": "District Taco",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75d9087c-c521-4f6c-88cd-f3c40797525b",
+    "data": [
+      {
+        "text": "Show me information on ",
+        "userDefined": false
+      },
+      {
+        "text": "Falafel Inc",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Georgetown DC",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5318b4c6-35ad-4f3a-b7da-2b8df5e355fb",
+    "data": [
+      {
+        "text": "Show me details on a good ",
+        "userDefined": false
+      },
+      {
+        "text": "falafel",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " place in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5950e602-5ab9-4412-99b9-39a794cb1e92",
+    "data": [
+      {
+        "text": "Show me details on a good ",
+        "userDefined": false
+      },
+      {
+        "text": "falafel",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " place in ",
+        "userDefined": false
+      },
+      {
+        "text": "DC",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00ae9f84-bde9-4ef5-8e60-b607d59ef819",
+    "data": [
+      {
+        "text": "Suggest a nice ",
+        "userDefined": false
+      },
+      {
+        "text": "French",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " restaurant in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "537afc30-ab22-4345-8201-dfb046b9f0ca",
+    "data": [
+      {
+        "text": "lookup ",
+        "userDefined": false
+      },
+      {
+        "text": "Shemali\u0027s Cafe",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "DC",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f08db47-3f31-4b24-b99c-b2be564189cd",
+    "data": [
+      {
+        "text": "lookup ",
+        "userDefined": false
+      },
+      {
+        "text": "Shemali\u0027s Cafe",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16fc1d9f-c27e-4fc3-aa47-4d1fd944a3e2",
+    "data": [
+      {
+        "text": "lookup an outdoor ",
+        "userDefined": false
+      },
+      {
+        "text": "cafe",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "San Diego",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9cd38bb-257e-482b-acbb-68cec1a626ca",
+    "data": [
+      {
+        "text": "lookup an outdoor ",
+        "userDefined": false
+      },
+      {
+        "text": "cafe",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "San Diego",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      },
+      {
+        "text": " near the beach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95d240d5-cda1-4b54-ab1a-1659d8efb1c8",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you show me how is ",
+        "userDefined": false
+      },
+      {
+        "text": "Hole in the Wall Cafe and Bar",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": true
+      },
+      {
+        "text": " city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1aa3a39-6885-4f80-b568-4f404d1c7139",
+    "data": [
+      {
+        "text": "find info on ",
+        "userDefined": false
+      },
+      {
+        "text": "Third Rail Coffee",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca4cd190-7538-44d4-8b2a-f618b502c819",
+    "data": [
+      {
+        "text": "show me some details for ",
+        "userDefined": false
+      },
+      {
+        "text": "Third Rail Coffee",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "NY",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      },
+      {
+        "text": " city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3226b14-7afb-4b84-930b-9db7d9bb1254",
+    "data": [
+      {
+        "text": "pull info on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sushi Ota",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "San Diego CA",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b220c1a4-1182-476d-b9ac-91dbbe7bf9f6",
+    "data": [
+      {
+        "text": "search for ",
+        "userDefined": false
+      },
+      {
+        "text": "California Grill",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "800 N Virgil Ave, LA",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29590cc0-4495-4021-8cf1-7ad45513d106",
+    "data": [
+      {
+        "text": "details on ",
+        "userDefined": false
+      },
+      {
+        "text": "Rossoblu",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " restaurant in ",
+        "userDefined": false
+      },
+      {
+        "text": "LA California",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4940577-4a3a-4fdf-a853-e4513313ccf8",
+    "data": [
+      {
+        "text": "find  a ",
+        "userDefined": false
+      },
+      {
+        "text": "mexican",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " place in downtown ",
+        "userDefined": false
+      },
+      {
+        "text": "Los Angeles",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa3d886f-6b84-4e87-9e43-4f71a16dfaa7",
+    "data": [
+      {
+        "text": "find a ",
+        "userDefined": false
+      },
+      {
+        "text": "mexican",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " place in downtown ",
+        "userDefined": false
+      },
+      {
+        "text": "Los Angeles",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec16c0f3-8276-4b76-ba62-786b687f28a5",
+    "data": [
+      {
+        "text": "find a nice ",
+        "userDefined": false
+      },
+      {
+        "text": "BAR",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " in downtown ",
+        "userDefined": false
+      },
+      {
+        "text": "Los Angeles",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d2cf75b-c686-4283-b8ee-1f1eae8da42b",
+    "data": [
+      {
+        "text": "find me an outdoor ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "NY",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      },
+      {
+        "text": " city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "716f1a8d-6863-4292-a9a6-cad01f339948",
+    "data": [
+      {
+        "text": "find me an outdoor ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Newbury street",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0922f658-21a5-44cb-99ac-4d0dc660d9b5",
+    "data": [
+      {
+        "text": "find me an outdoor ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Newbury street, Boston",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35d8fcd4-739f-490b-bf8a-98f82e5a46a9",
+    "data": [
+      {
+        "text": "find a nice ",
+        "userDefined": false
+      },
+      {
+        "text": "bar",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " within a one mile radius",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec2be386-5021-4b6b-a42f-f8987583d6aa",
+    "data": [
+      {
+        "text": "find a ",
+        "userDefined": false
+      },
+      {
+        "text": "grocery",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " store in ",
+        "userDefined": false
+      },
+      {
+        "text": "washington DC",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2c07323-9b95-4b87-83d0-be28d929ab95",
+    "data": [
+      {
+        "text": "find a ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5aa0412-9336-430b-bcaa-3801a0c6a0ac",
+    "data": [
+      {
+        "text": "Find the nearest ",
+        "userDefined": false
+      },
+      {
+        "text": "grocery",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " store at ",
+        "userDefined": false
+      },
+      {
+        "text": "4455 connecticut ave nw washington dc",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8337def1-87d9-4862-b595-0544b9fb7e48",
+    "data": [
+      {
+        "text": "Lookup a ",
+        "userDefined": false
+      },
+      {
+        "text": "pharmacy",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a82f8d6-3172-4682-8590-53e0b5994cd1",
+    "data": [
+      {
+        "text": "find me a ",
+        "userDefined": false
+      },
+      {
+        "text": "pharmacy",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60bcc2cc-f8ea-4969-b57a-8f4026639491",
+    "data": [
+      {
+        "text": "lookup the info on ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian Pizza Kitchen",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d22fb8b-29fb-46eb-9209-b692a900c676",
+    "data": [
+      {
+        "text": "lookup ",
+        "userDefined": false
+      },
+      {
+        "text": "Olive Bistro",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " Restaurant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd60c869-26fe-4be1-84ac-be8193e6832d",
+    "data": [
+      {
+        "text": "lookup the info on ",
+        "userDefined": false
+      },
+      {
+        "text": "Nando\u0027s Peri-Peri",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " restaurant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "712b74f0-2921-430f-b1a5-6cc33104f599",
+    "data": [
+      {
+        "text": "lookup the info on ",
+        "userDefined": false
+      },
+      {
+        "text": "Guapo\u0027s",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " restaurant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dffce059-7615-4481-b800-5cf4183609da",
+    "data": [
+      {
+        "text": "lookup for ",
+        "userDefined": false
+      },
+      {
+        "text": "Laliguras Indian Nepali Bistro",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31a60eaa-b8c7-44e4-bb50-9918286b32da",
+    "data": [
+      {
+        "text": "lookup the address for ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian Pizza Kitchen",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Washington DC",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9956bb11-1a82-4609-b0ee-02181a231dcb",
+    "data": [
+      {
+        "text": "where is the nearest ",
+        "userDefined": false
+      },
+      {
+        "text": "Peet\u0027s Coffee",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c12707f5-c353-4307-a21a-aa63a4890b27",
+    "data": [
+      {
+        "text": "Find an ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " restaurant near ",
+        "userDefined": false
+      },
+      {
+        "text": "91 Westland Avenue",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b04d7aed-3a43-4d64-b5cc-a9a0465bd1be",
+    "data": [
+      {
+        "text": "find an ",
+        "userDefined": false
+      },
+      {
+        "text": "Indian",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " restaurant in ",
+        "userDefined": false
+      },
+      {
+        "text": "DC",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6445c0b5-7470-493c-8d97-7ce2ae3cf4bf",
+    "data": [
+      {
+        "text": "find me a ",
+        "userDefined": false
+      },
+      {
+        "text": "Starbucks",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73492d62-be16-4c02-a1a2-0b37a7db3d4d",
+    "data": [
+      {
+        "text": "show me the information for ",
+        "userDefined": false
+      },
+      {
+        "text": "Potbelly Sandwich Shop",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Washington,DC",
+        "meta": "@sys.address",
+        "alias": "user_location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "711562c7-2630-4d61-9cad-1667e4c25316",
+    "data": [
+      {
+        "text": "lookup ",
+        "userDefined": false
+      },
+      {
+        "text": "Potbelly Sandwich Shop",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b520568-af4c-42b7-aadf-7507bdaaad3c",
+    "data": [
+      {
+        "text": "show me info on ",
+        "userDefined": false
+      },
+      {
+        "text": "Laliguras Indian Nepali Bistro",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab9ed8db-e957-4597-a61e-7adbe3ca99c0",
+    "data": [
+      {
+        "text": "get me information on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sfoglina",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " restaurant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cb6081e-9ada-4787-b019-381967daa0f3",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Peet\u0027s Coffee",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      },
+      {
+        "text": " around me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ce6431d-c393-4ddc-a953-f5fcc0677988",
+    "data": [
+      {
+        "text": "find information on  ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian Pizza Kitchen",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4095073a-a244-4bd2-adbd-d38fb0b47728",
+    "data": [
+      {
+        "text": "find me the information on ",
+        "userDefined": false
+      },
+      {
+        "text": "Four Barrel Coffee",
+        "meta": "@business_ent",
+        "alias": "business_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

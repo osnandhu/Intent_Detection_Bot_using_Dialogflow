@@ -1,0 +1,40 @@
+{
+  "id": "4d9f49a4-8bab-49f5-955e-fb79e79eac32",
+  "parentId": "3fdec1fe-8fd0-4ffc-9013-640aea643327",
+  "rootParentId": "3fdec1fe-8fd0-4ffc-9013-640aea643327",
+  "name": "smalltalk.user.negative.inorder - okay",
+  "auto": true,
+  "contexts": [
+    "item",
+    "smalltalkusernegativeinorder-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalkusernegativeinorder.smalltalkusernegativeinorder-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Or you can always start from scratch by typing \"cancel\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

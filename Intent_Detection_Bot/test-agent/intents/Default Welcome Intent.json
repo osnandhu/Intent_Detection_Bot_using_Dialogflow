@@ -1,0 +1,58 @@
+{
+  "id": "497c383d-801b-411e-9089-66cb927d11f4",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "displayText": "",
+              "footer": "",
+              "ssml": "\u003cspeak\u003eHi there! Welcome to Hungry Hippos, you can say things like \"Where is the nearest Starbucks? \", \u003cbreak time\u003d\"0.5s\"/\u003e  \"What are the operating hours for Giant?\",  \u003cbreak time\u003d\"0.5s\"/\u003e  \"Reserve a table\" or \"Place an order\".  \u003cbreak time\u003d\"1s\"/\u003e What would you like help with ?\u003c/speak\u003e"
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi there! Welcome to Hungry Hippos, you can say things like \"Where is the nearest Starbucks? \", \"What are the operating hours for Giant?\",  \"Reserve a table\" or \"Place an order\".  What would you like help with ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

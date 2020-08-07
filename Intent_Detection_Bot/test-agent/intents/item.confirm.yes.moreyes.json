@@ -1,0 +1,39 @@
+{
+  "id": "0c7e0937-5eac-4645-b71c-adeab9affa0a",
+  "parentId": "1fd39e8e-3940-48c6-b2c7-0588ad74d328",
+  "rootParentId": "1fd39e8e-3940-48c6-b2c7-0588ad74d328",
+  "name": "item.confirm.yes.moreyes",
+  "auto": true,
+  "contexts": [
+    "itemconfirmyes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great, I\u0027m listening!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

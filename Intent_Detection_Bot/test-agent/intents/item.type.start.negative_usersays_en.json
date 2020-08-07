@@ -1,0 +1,78 @@
+[
+  {
+    "id": "ce3325b8-0efd-4c4f-892f-dbd29acd93b2",
+    "data": [
+      {
+        "text": "do you have pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "salami",
+        "meta": "@pizza-type-no",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b8ef584-07e5-45b2-b8a4-13c4f0d949f4",
+    "data": [
+      {
+        "text": "do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "quattro stagioni",
+        "meta": "@pizza-type-no",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a64d8a1-42de-462e-876c-2c3f0d22e34e",
+    "data": [
+      {
+        "text": "salami",
+        "meta": "@pizza-type-no",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d8bdf3b-6a45-4d3d-ad8d-537280b42c0b",
+    "data": [
+      {
+        "text": "do you offer pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "Americana",
+        "meta": "@pizza-type-no",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

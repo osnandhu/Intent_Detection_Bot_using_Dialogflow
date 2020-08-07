@@ -1,0 +1,80 @@
+{
+  "id": "8827935c-411b-4a4e-a8b5-54dddf33689b",
+  "name": "search_business.details",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ad19af3c-59fc-4da8-9a8d-e63a3951c405",
+          "name": "business_ent",
+          "required": true,
+          "dataType": "@business_ent",
+          "value": "$business_ent",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please provide the business name that you want me to lookup"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "72c045e7-7b08-42a1-92f0-81151bca17cd",
+          "name": "requested_time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$requested_time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8c50d7df-f5c9-42ed-af41-63b2386f7b2e",
+          "name": "search_location",
+          "required": false,
+          "dataType": "@sys.address",
+          "value": "$search_location",
+          "defaultValue": "4455 connecticut ave nw washington DC",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

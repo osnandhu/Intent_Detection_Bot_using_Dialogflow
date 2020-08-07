@@ -1,0 +1,71 @@
+{
+  "id": "cce07942-080b-4bc8-a76f-72df8d0341e6",
+  "name": "search_business",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "86649e77-e7ba-4875-87f5-b1d942a53be0",
+          "name": "business_name",
+          "required": true,
+          "dataType": "@business_ent",
+          "value": "$business_name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please provide the business name that you want me to lookup"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9d04675f-36d7-4112-882a-c7fd8287f8d1",
+          "name": "user_location",
+          "required": false,
+          "dataType": "@sys.address",
+          "value": "$user_location",
+          "defaultValue": "4455 connecticut ave nw washington DC",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s your location ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

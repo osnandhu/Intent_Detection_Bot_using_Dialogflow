@@ -1,0 +1,37 @@
+{
+  "id": "fbf6e3a4-f98d-4143-8228-49c141a02fc0",
+  "name": "help.orderfinished",
+  "auto": true,
+  "contexts": [
+    "order-done"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We\u0027ve added your order to the list and our delivery person should be at your door within 30 minutes"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

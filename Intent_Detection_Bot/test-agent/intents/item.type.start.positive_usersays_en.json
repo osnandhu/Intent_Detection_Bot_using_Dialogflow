@@ -1,0 +1,140 @@
+[
+  {
+    "id": "2a5e2ef9-51ca-4084-98d0-d38baa7635da",
+    "data": [
+      {
+        "text": "is pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "pepperoni",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " the menu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8db9bbf9-a948-4f78-bf57-ab8cf7c54316",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "pepperoni",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " on the menu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "858226d8-215c-4a03-a6ad-bd7b2673531a",
+    "data": [
+      {
+        "text": "do you have pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "pepperoni",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3144e36-4c18-42d3-b970-15e3382ba79c",
+    "data": [
+      {
+        "text": "do you offer ",
+        "userDefined": false
+      },
+      {
+        "text": "pepperoni",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5873f7dd-836c-4bf7-9202-f76425bb83ad",
+    "data": [
+      {
+        "text": "do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "hawaii",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "615b3f18-615d-4591-aae5-82e23723b020",
+    "data": [
+      {
+        "text": "do you offer pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "margherita",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "value": "miami",
+    "synonyms": [
+      "miami"
+    ]
+  },
+  {
+    "value": "Washington DC",
+    "synonyms": [
+      "Washington DC"
+    ]
+  },
+  {
+    "value": "Washington,DC",
+    "synonyms": [
+      "Washington,DC"
+    ]
+  },
+  {
+    "value": "New York ",
+    "synonyms": [
+      "New York "
+    ]
+  },
+  {
+    "value": "Boston",
+    "synonyms": [
+      "Boston"
+    ]
+  },
+  {
+    "value": "DC",
+    "synonyms": [
+      "DC"
+    ]
+  },
+  {
+    "value": "Miami",
+    "synonyms": [
+      "Miami"
+    ]
+  }
+]

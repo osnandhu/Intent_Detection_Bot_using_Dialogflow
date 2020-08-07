@@ -1,0 +1,40 @@
+{
+  "id": "419676f7-03fd-4621-81f8-9b6d9c952924",
+  "parentId": "3fdec1fe-8fd0-4ffc-9013-640aea643327",
+  "rootParentId": "3fdec1fe-8fd0-4ffc-9013-640aea643327",
+  "name": "smalltalk.user.negative.inorder - continue",
+  "auto": true,
+  "contexts": [
+    "smalltalkusernegativeinorder-followup",
+    "item"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, let\u0027s continue"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

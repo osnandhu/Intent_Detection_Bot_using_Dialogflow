@@ -1,0 +1,80 @@
+[
+  {
+    "id": "8eea7a39-c91e-493a-81ad-a99b2de437ff",
+    "data": [
+      {
+        "text": "give me pizza!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01db3500-58f1-4aa0-b072-aaf7efee494c",
+    "data": [
+      {
+        "text": "order please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "092b079d-ef7f-43a6-8b98-7539afce95dc",
+    "data": [
+      {
+        "text": "I\u0027d like to order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aeb632ac-98eb-4bd6-bfcb-bad0aa9d41ed",
+    "data": [
+      {
+        "text": "I want to order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "732eb2db-b24d-4209-8c20-9fc4b2e48a08",
+    "data": [
+      {
+        "text": "start order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37e5d4fb-9dc1-4841-bb6c-b037926019fb",
+    "data": [
+      {
+        "text": "start another order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

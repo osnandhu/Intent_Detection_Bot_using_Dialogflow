@@ -1,0 +1,68 @@
+[
+  {
+    "value": "1",
+    "synonyms": [
+      "1",
+      "1 or more",
+      "1 or more stars",
+      "1 star",
+      "one"
+    ]
+  },
+  {
+    "value": "2",
+    "synonyms": [
+      "2",
+      "2 or more",
+      "2 or more stars",
+      "2 star",
+      "2 stars",
+      "two"
+    ]
+  },
+  {
+    "value": "3",
+    "synonyms": [
+      "3",
+      "3 or more",
+      "3 or more stars",
+      "3 star",
+      "3 stars",
+      "three"
+    ]
+  },
+  {
+    "value": "4",
+    "synonyms": [
+      "4",
+      "4 or more",
+      "4 or more stars",
+      "4 star",
+      "4 stars",
+      "four"
+    ]
+  },
+  {
+    "value": "5",
+    "synonyms": [
+      "5",
+      "5 or more",
+      "5 star",
+      "5 stars",
+      "best rated",
+      "five",
+      "high rank",
+      "highest rank",
+      "top rated",
+      "top-rated"
+    ]
+  },
+  {
+    "value": "highest rated",
+    "synonyms": [
+      "high rating",
+      "highest rated",
+      "highest rating"
+    ]
+  }
+]

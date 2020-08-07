@@ -1,0 +1,40 @@
+{
+  "id": "96db0ad2-379e-4dba-b086-3af3161c9667",
+  "parentId": "3fdec1fe-8fd0-4ffc-9013-640aea643327",
+  "rootParentId": "3fdec1fe-8fd0-4ffc-9013-640aea643327",
+  "name": "smalltalk.user.negative.inorder - how",
+  "auto": true,
+  "contexts": [
+    "item",
+    "smalltalkusernegativeinorder-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Just type, for example, \"I want a Pepperoni instead\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

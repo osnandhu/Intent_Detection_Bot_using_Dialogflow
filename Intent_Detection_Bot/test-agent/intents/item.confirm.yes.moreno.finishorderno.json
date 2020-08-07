@@ -1,0 +1,36 @@
+{
+  "id": "433e7a20-9996-4320-be01-4b48c8d82480",
+  "parentId": "1cf5deaf-f00f-49d5-8a9a-13fa4d08c659",
+  "rootParentId": "1fd39e8e-3940-48c6-b2c7-0588ad74d328",
+  "name": "item.confirm.yes.moreno.finishorderno",
+  "auto": true,
+  "contexts": [
+    "itemconfirmyesmoreno-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

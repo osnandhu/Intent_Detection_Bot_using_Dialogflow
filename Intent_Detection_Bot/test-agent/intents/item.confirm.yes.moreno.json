@@ -1,0 +1,44 @@
+{
+  "id": "1cf5deaf-f00f-49d5-8a9a-13fa4d08c659",
+  "parentId": "1fd39e8e-3940-48c6-b2c7-0588ad74d328",
+  "rootParentId": "1fd39e8e-3940-48c6-b2c7-0588ad74d328",
+  "name": "item.confirm.yes.moreno",
+  "auto": true,
+  "contexts": [
+    "itemconfirmyes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "itemconfirmyesmoreno-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright, do you want to finish your order?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

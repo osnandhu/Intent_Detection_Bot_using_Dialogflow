@@ -1,0 +1,873 @@
+[
+  {
+    "id": "b9eb51c6-df9f-421b-9b91-772e0aed8ca1",
+    "data": [
+      {
+        "text": "what are the store hours for ",
+        "userDefined": false
+      },
+      {
+        "text": "Sfoglina Van Ness",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fec48e63-e844-4b77-a0c9-5ce5a123d2d8",
+    "data": [
+      {
+        "text": "hours of operation for ",
+        "userDefined": false
+      },
+      {
+        "text": "Giant",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a719935d-0e4a-4b4f-abf3-f7bf3fb2095e",
+    "data": [
+      {
+        "text": "hours of operation for ",
+        "userDefined": false
+      },
+      {
+        "text": "CVS",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be08061d-ff85-4697-b596-8e555652bfa3",
+    "data": [
+      {
+        "text": "what time does ",
+        "userDefined": false
+      },
+      {
+        "text": "Giant",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": true
+      },
+      {
+        "text": " close ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bbe3ffa-b3b6-4151-8c80-9e5f8e9e66dd",
+    "data": [
+      {
+        "text": "when does ",
+        "userDefined": false
+      },
+      {
+        "text": "CVS",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " close ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fdf41dd-3b88-468a-8d17-78603468e737",
+    "data": [
+      {
+        "text": "when does ",
+        "userDefined": false
+      },
+      {
+        "text": "Giant",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": true
+      },
+      {
+        "text": " close ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4c22dca-e8ee-47b8-a315-0dee95662497",
+    "data": [
+      {
+        "text": "when does ",
+        "userDefined": false
+      },
+      {
+        "text": "CVS",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " close ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0a0e5f2-39de-47bd-a71a-ffae9fde8459",
+    "data": [
+      {
+        "text": "show me hours of operation for ",
+        "userDefined": false
+      },
+      {
+        "text": "Rossoblu",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " restaurant in ",
+        "userDefined": false
+      },
+      {
+        "text": "LA California",
+        "meta": "@sys.address",
+        "alias": "search_location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1064dc4e-8185-4cef-97e7-2ce58025fb5f",
+    "data": [
+      {
+        "text": "show me hours of operation for ",
+        "userDefined": false
+      },
+      {
+        "text": "Laliguras",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb8c9d79-af94-47c6-99e4-e4b3e4cd82ae",
+    "data": [
+      {
+        "text": "till what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "Laliguras",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": true
+      },
+      {
+        "text": " open ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c94d7e80-918f-4f9e-9188-54ee26169870",
+    "data": [
+      {
+        "text": "When does ",
+        "userDefined": false
+      },
+      {
+        "text": "Zuma",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.address",
+        "alias": "search_location",
+        "userDefined": false
+      },
+      {
+        "text": " close ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8560c1d3-cc26-4e7c-b996-2f113827c1f8",
+    "data": [
+      {
+        "text": "until when is ",
+        "userDefined": false
+      },
+      {
+        "text": "Rossoblu",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " open ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "LA",
+        "meta": "@sys.address",
+        "alias": "search_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae0b110f-415d-48f1-a9fa-3254b4c398d7",
+    "data": [
+      {
+        "text": "When does ",
+        "userDefined": false
+      },
+      {
+        "text": "Zuma",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.address",
+        "alias": "search_location",
+        "userDefined": false
+      },
+      {
+        "text": " close ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "270d398d-953a-497f-b2e9-d2b77fdd5da4",
+    "data": [
+      {
+        "text": "hours of operation for ",
+        "userDefined": false
+      },
+      {
+        "text": "Zuma",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "NY",
+        "meta": "@sys.address",
+        "alias": "search_location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fbe82ac-c344-462d-b6d0-3ffe1f0f60a0",
+    "data": [
+      {
+        "text": "until when is ",
+        "userDefined": false
+      },
+      {
+        "text": "Pour House",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": true
+      },
+      {
+        "text": " open in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.address",
+        "alias": "search_location",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64e0d9c0-4ac3-4558-864e-b4d4a2a2c2d1",
+    "data": [
+      {
+        "text": "until when is ",
+        "userDefined": false
+      },
+      {
+        "text": "Burger King",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " open near ",
+        "userDefined": false
+      },
+      {
+        "text": "4455 connecticut ave nw washington dc",
+        "meta": "@sys.address",
+        "alias": "search_location",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82535063-70b8-467f-8251-0df22f03473a",
+    "data": [
+      {
+        "text": "until when is ",
+        "userDefined": false
+      },
+      {
+        "text": "Burger King",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " open near ",
+        "userDefined": false
+      },
+      {
+        "text": "4455 connecticut ave nw washington dc",
+        "meta": "@sys.address",
+        "alias": "search_location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "348f6b09-4e6f-4833-a47b-42056564d323",
+    "data": [
+      {
+        "text": "what are the hours for ",
+        "userDefined": false
+      },
+      {
+        "text": "Laliguras Indian Nepali Bistro",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " open on ",
+        "userDefined": false
+      },
+      {
+        "text": "saturday",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec5fdcf1-a68e-4f98-9150-a4b5df043470",
+    "data": [
+      {
+        "text": "till what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "Laliguras Indian Nepali Bistro",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " open ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b256d56e-45b8-4729-8c7d-d1dea5f01856",
+    "data": [
+      {
+        "text": "what are the timings for ",
+        "userDefined": false
+      },
+      {
+        "text": "CVS",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "connecticut ave",
+        "meta": "@sys.address",
+        "alias": "search_location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8dd7e86c-3837-4740-9f0c-aade93f69db6",
+    "data": [
+      {
+        "text": "how long is ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian Pizza Kitchen",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": true
+      },
+      {
+        "text": " open ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d8ee1a3-bc65-44be-b571-aba0693b34a9",
+    "data": [
+      {
+        "text": "what are the timings for ",
+        "userDefined": false
+      },
+      {
+        "text": "Sfoligna",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "239dd728-a1df-4864-882b-e6086f5e2a8a",
+    "data": [
+      {
+        "text": "what are the hours for ",
+        "userDefined": false
+      },
+      {
+        "text": "Sfoligna",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d585d798-7662-468e-b220-313f2ce2b61f",
+    "data": [
+      {
+        "text": "till what time is ",
+        "userDefined": false
+      },
+      {
+        "text": "Sfoligna",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": true
+      },
+      {
+        "text": " open ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e37f161d-4eac-4988-b2d2-438803e7b6bd",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "CVS",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " deliver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d762fe6-a08d-436c-8f93-55cf825dedac",
+    "data": [
+      {
+        "text": "what are the store hours for ",
+        "userDefined": false
+      },
+      {
+        "text": "CVS",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": true
+      },
+      {
+        "text": " near me ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5ae102f-437d-4dcd-86b9-c5040f78b407",
+    "data": [
+      {
+        "text": "What are the operating hours for ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian Pizza Kitchen",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday",
+        "meta": "@sys.date-time",
+        "alias": "requested_time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0126c7fc-d266-433e-9c24-bbd1c06de74d",
+    "data": [
+      {
+        "text": "Are any ",
+        "userDefined": false
+      },
+      {
+        "text": "Walgreens",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      },
+      {
+        "text": " stores open near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0534e87d-cbc3-445a-88ea-c5d6fe7a618c",
+    "data": [
+      {
+        "text": "What are the operating hours for ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian Pizza Kitchen",
+        "meta": "@business_ent",
+        "alias": "business_ent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

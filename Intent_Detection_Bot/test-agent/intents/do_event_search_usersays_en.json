@@ -1,0 +1,652 @@
+[
+  {
+    "id": "5441419c-90f4-4548-abf2-393d60262b5e",
+    "data": [
+      {
+        "text": "anything happening in ",
+        "userDefined": false
+      },
+      {
+        "text": "DC",
+        "meta": "@sys.address",
+        "alias": "mylocation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e98da04e-acb0-4677-a8f0-4140e73d12e3",
+    "data": [
+      {
+        "text": "what can I do in ",
+        "userDefined": false
+      },
+      {
+        "text": "DC",
+        "meta": "@sys.address",
+        "alias": "mylocation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae3906a3-e924-4a2d-b8eb-34fe95b07659",
+    "data": [
+      {
+        "text": "what events can I do in ",
+        "userDefined": false
+      },
+      {
+        "text": "LA",
+        "meta": "@sys.address",
+        "alias": "mylocation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "495a2ec9-5c62-4c47-9266-c6159f65fd95",
+    "data": [
+      {
+        "text": "whats can I do in ",
+        "userDefined": false
+      },
+      {
+        "text": "LA",
+        "meta": "@sys.address",
+        "alias": "mylocation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61819786-8bdb-4377-a818-843ae293672d",
+    "data": [
+      {
+        "text": "Feeling bored anything to do around in ",
+        "userDefined": false
+      },
+      {
+        "text": "Philly",
+        "meta": "@sys.address",
+        "alias": "mylocation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ba1594e-27d3-4cb7-8aae-80540bfd0ebf",
+    "data": [
+      {
+        "text": "Feeling bored anything to do around in ",
+        "userDefined": false
+      },
+      {
+        "text": "new york",
+        "meta": "@sys.address",
+        "alias": "mylocation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ec1ea19-35c0-486f-9fc4-e20489932363",
+    "data": [
+      {
+        "text": "Feeling bored anything to do around in ",
+        "userDefined": false
+      },
+      {
+        "text": "dc",
+        "meta": "@sys.address",
+        "alias": "mylocation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "024d1fae-eb13-4923-86bc-85a42964d336",
+    "data": [
+      {
+        "text": "I am bored anything to do around ",
+        "userDefined": false
+      },
+      {
+        "text": "4455 connecticut ave",
+        "meta": "@sys.address",
+        "alias": "mylocation",
+        "userDefined": false
+      },
+      {
+        "text": " nw?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5debd1f5-9f35-414c-8718-6982e04790e8",
+    "data": [
+      {
+        "text": "anything in ",
+        "userDefined": false
+      },
+      {
+        "text": "dc",
+        "meta": "@sys.address",
+        "alias": "mylocation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e287928c-0c07-4af6-ad86-971e957ad1da",
+    "data": [
+      {
+        "text": "what events are happening near me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37be52a9-03f2-44ec-8517-a23926f34437",
+    "data": [
+      {
+        "text": "I am bored suggest an event near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efd102fb-41a6-47ea-b1ed-24d760b2e9b2",
+    "data": [
+      {
+        "text": "anything fun in ",
+        "userDefined": false
+      },
+      {
+        "text": "philadelphia",
+        "meta": "@sys.address",
+        "alias": "mylocation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf265ebf-76e6-4963-a3d3-9f1fd8f1cd55",
+    "data": [
+      {
+        "text": "anything fun in ",
+        "userDefined": false
+      },
+      {
+        "text": "downtown",
+        "meta": "@sys.address",
+        "alias": "mylocation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b86f272-de7c-4f8a-9b7f-e10da079a7ea",
+    "data": [
+      {
+        "text": "any fun events in ",
+        "userDefined": false
+      },
+      {
+        "text": "washington dc",
+        "meta": "@sys.address",
+        "alias": "mylocation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5accc80-6ab5-45ca-9674-4d0dc1b64334",
+    "data": [
+      {
+        "text": "what to do in ",
+        "userDefined": false
+      },
+      {
+        "text": "miami",
+        "meta": "@sys.address",
+        "alias": "mylocation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95967b7f-7f1e-43d8-9eda-eba3621855d0",
+    "data": [
+      {
+        "text": "any cool events happening around ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.address",
+        "alias": "mylocation",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b358a82d-fd24-4a45-b885-d66db907deaf",
+    "data": [
+      {
+        "text": "bored, what can I do ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8bea284b-0fb4-41ba-bd52-4d710668ae17",
+    "data": [
+      {
+        "text": "anything fun to do ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "889e127a-e3e1-4ae8-a304-4819b999a2ec",
+    "data": [
+      {
+        "text": "Is there anything to do in ",
+        "userDefined": false
+      },
+      {
+        "text": "Miami",
+        "meta": "@sys.address",
+        "alias": "mylocation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ce93aba-5803-4439-8041-1893b9e320b5",
+    "data": [
+      {
+        "text": "things to do around me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1c2918a-0e20-46d2-86ea-e86680662a1f",
+    "data": [
+      {
+        "text": "events  near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "165a914f-1684-4fe9-a7af-d741c52b4830",
+    "data": [
+      {
+        "text": "what to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17e87d58-1875-4ef0-8b9c-99f3f1e1cd44",
+    "data": [
+      {
+        "text": "interest me with something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f050c60-bd12-49f8-a9e9-b194236e433c",
+    "data": [
+      {
+        "text": "what can I do ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42f68a70-b7d3-4ac5-800d-43d68496c112",
+    "data": [
+      {
+        "text": "Things to do near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3d9be23-7c22-4852-af47-44b204d22aae",
+    "data": [
+      {
+        "text": "I am bored what should I do near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cddb00ae-c454-4460-a40e-7b60ff8a9bc9",
+    "data": [
+      {
+        "text": "I am bored",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52a7cead-50c7-41ab-8c1e-c2fef0417458",
+    "data": [
+      {
+        "text": "what should I do ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

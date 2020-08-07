@@ -1,0 +1,64 @@
+{
+  "id": "c1fa9ca0-ad1f-458a-bd5e-69303772c185",
+  "name": "help.onlyonepizza",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "24204548-2a0d-4035-84ca-af2b2357cd86",
+          "name": "pizza-type-1",
+          "required": false,
+          "dataType": "@pizza-type",
+          "value": "$pizza-type-1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ee73274f-7080-4d1e-bd8a-d68b9c74e03f",
+          "name": "pizza-type-2",
+          "required": false,
+          "dataType": "@pizza-type",
+          "value": "$pizza-type-2",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am very sorry, I can only take one order per message :\u0027-("
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

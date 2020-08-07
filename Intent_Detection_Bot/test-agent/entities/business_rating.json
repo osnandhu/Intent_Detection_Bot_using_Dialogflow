@@ -1,0 +1,9 @@
+{
+  "id": "092c9e40-549c-4e72-b68e-43e152092a6c",
+  "name": "business_rating",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

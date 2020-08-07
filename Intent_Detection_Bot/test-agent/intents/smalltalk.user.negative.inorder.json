@@ -1,0 +1,46 @@
+{
+  "id": "3fdec1fe-8fd0-4ffc-9013-640aea643327",
+  "name": "smalltalk.user.negative.inorder",
+  "auto": true,
+  "contexts": [
+    "item"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "smalltalkusernegativeinorder-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "item",
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What\u0027s wrong? You can change the type, amount and size of the pizza you just added"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

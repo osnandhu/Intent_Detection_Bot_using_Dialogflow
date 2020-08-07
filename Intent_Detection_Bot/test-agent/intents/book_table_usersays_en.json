@@ -1,0 +1,687 @@
+[
+  {
+    "id": "a8770440-bc82-4fa8-a254-50ec064ce622",
+    "data": [
+      {
+        "text": "reserve a spot for ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      },
+      {
+        "text": " for Joes Kitchen for ",
+        "userDefined": false
+      },
+      {
+        "text": "saturday",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " morning at ",
+        "userDefined": false
+      },
+      {
+        "text": "7 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdaeb70a-86b3-44ea-b771-22066c981861",
+    "data": [
+      {
+        "text": "need a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      },
+      {
+        "text": " for Joes Kitchen for ",
+        "userDefined": false
+      },
+      {
+        "text": "sunday",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "370f26cd-375d-42ad-b3ba-62a08596f581",
+    "data": [
+      {
+        "text": "plz book table for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      },
+      {
+        "text": " at Italian Pizza Kitchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "863afd7e-7972-4810-9909-cde7c6c7ece2",
+    "data": [
+      {
+        "text": "need tables for ",
+        "userDefined": false
+      },
+      {
+        "text": "ten",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      },
+      {
+        "text": " guests for this ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d8126d6-f6f8-4b54-b1e8-47bf132d33dd",
+    "data": [
+      {
+        "text": "need a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "seven",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      },
+      {
+        "text": " guests",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c395b3e-03d8-4ae7-8fb1-192d79d98cc0",
+    "data": [
+      {
+        "text": "book a table for part of ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "August 7th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "6pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79a8eff1-cf20-40d3-8cea-27353099f17b",
+    "data": [
+      {
+        "text": "book a table for a ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "October 4th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cb456a6-bcc6-42ee-985d-ccb137368d60",
+    "data": [
+      {
+        "text": "reserve tables for a party of ",
+        "userDefined": false
+      },
+      {
+        "text": "15",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      },
+      {
+        "text": " guests on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday July 12",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7289ed9-b5e2-4540-95e6-2f2a48c485ba",
+    "data": [
+      {
+        "text": "reserve tables for party of ",
+        "userDefined": false
+      },
+      {
+        "text": "twenty",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40a07905-2c88-4cbf-9d4b-fdcc190f4c1d",
+    "data": [
+      {
+        "text": "reserve table for ",
+        "userDefined": false
+      },
+      {
+        "text": "five",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      },
+      {
+        "text": " guests",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34e2776f-7e9f-4e35-8aeb-9322adbfd97c",
+    "data": [
+      {
+        "text": "book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      },
+      {
+        "text": " person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f6e4b39-d49a-4b0c-ae2f-bb1fa25975e4",
+    "data": [
+      {
+        "text": "need a spot for ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      },
+      {
+        "text": " people for ",
+        "userDefined": false
+      },
+      {
+        "text": "noon",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fdcbb1c-1a55-4f44-a472-83bebc7179f6",
+    "data": [
+      {
+        "text": "book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "august 4th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      },
+      {
+        "text": " guest at ",
+        "userDefined": false
+      },
+      {
+        "text": "11:00 am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1d1740e-a775-4370-a656-9a1c83145002",
+    "data": [
+      {
+        "text": "I need a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "July 10",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6075d22-af04-42c1-9239-bbfb3642a8fc",
+    "data": [
+      {
+        "text": "can I reserve a table for breakfast for ",
+        "userDefined": false
+      },
+      {
+        "text": "Saturday",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebcf4e1b-790a-40ea-a4cf-b82e5f8f3313",
+    "data": [
+      {
+        "text": "reserve a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday July 12th",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9762a11-58ad-4e39-bf6a-d5f3545d33f4",
+    "data": [
+      {
+        "text": "can you reserve a spot for ",
+        "userDefined": false
+      },
+      {
+        "text": "7pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      },
+      {
+        "text": " guests",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0a86eb3-66e9-4e10-bcd5-34b519c20bb1",
+    "data": [
+      {
+        "text": "book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": false
+      },
+      {
+        "text": " people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7238e0c-c6c4-4a0a-ac4f-dc2a3204a608",
+    "data": [
+      {
+        "text": "make reservations for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "9pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e49c1ad-c8b6-4a54-904b-64cb5036c7c2",
+    "data": [
+      {
+        "text": "book a table ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "9pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f35059e-f964-412b-8d4e-56c0b0d7a601",
+    "data": [
+      {
+        "text": "Reserve a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fbd7fba-2e8a-4551-b1f9-a96ec238b7f1",
+    "data": [
+      {
+        "text": "Make reservations for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "guests",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5666b8ae-dcfa-4967-8dbb-732fd2064ebc",
+    "data": [
+      {
+        "text": "Can you reserve a spot ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec281a34-080b-4d02-bb2c-0f876572b851",
+    "data": [
+      {
+        "text": "Reserve table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "402b0375-fbce-49eb-a31b-c4707b4d1f87",
+    "data": [
+      {
+        "text": "reserve my table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38730ae1-9789-4349-8b8c-8625149aa120",
+    "data": [
+      {
+        "text": "Book me a table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16e13855-bccf-4f51-817c-17df0e67ccd9",
+    "data": [
+      {
+        "text": "I need to book a table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "c131a44d-23dd-4167-9e68-02a85764a225",
+    "data": [
+      {
+        "text": "show my basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08ae6b46-38ee-4f3e-8d16-2f437b7404a6",
+    "data": [
+      {
+        "text": "what do I have so far?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba77c61c-dbe4-4cab-b550-fdc73866882c",
+    "data": [
+      {
+        "text": "what do I have in my basket?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8b06e26-30bb-42a8-b21d-7ddf02d2ab85",
+    "data": [
+      {
+        "text": "what\u0027s in my basket?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3af5c3ce-a878-4074-b890-a881bed2bd43",
+    "data": [
+      {
+        "text": "basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

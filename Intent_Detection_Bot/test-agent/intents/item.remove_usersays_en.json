@@ -1,0 +1,201 @@
+[
+  {
+    "id": "2339b9a1-e5bc-4a3d-9b3c-cba245408626",
+    "data": [
+      {
+        "text": "No for ",
+        "userDefined": false
+      },
+      {
+        "text": "Pepperoni",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d120b05c-7b5f-4cb4-be4e-40eb83d2f3c1",
+    "data": [
+      {
+        "text": "Can you please cancel the ",
+        "userDefined": false
+      },
+      {
+        "text": "Funghi",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " pizza from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc842f9c-7693-4819-890b-eb77f46a1189",
+    "data": [
+      {
+        "text": "Cancel the ",
+        "userDefined": false
+      },
+      {
+        "text": "pepperoni",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d989c49-239d-4706-a3ef-37c3703001ef",
+    "data": [
+      {
+        "text": "Hey remove ",
+        "userDefined": false
+      },
+      {
+        "text": "vegetarian",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " pizzas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b5e5260-4993-4971-b5b6-35c512eb05d4",
+    "data": [
+      {
+        "text": "I don\u0027t want the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pepperoni",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " anymore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5a16600-793c-41f1-8ae8-2b102cad655c",
+    "data": [
+      {
+        "text": "cancel pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "funghi",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac05c3d6-d439-4dd6-9ecc-4d30a022d5a0",
+    "data": [
+      {
+        "text": "I don\u0027t want the pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "margherita",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " anymore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54f3d65e-0856-4818-b5f5-11156b14a6ab",
+    "data": [
+      {
+        "text": "Can you remove the pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "margherita",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": false
+      },
+      {
+        "text": " from my basket?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81a31d67-94ff-40f4-aacc-03c168ddf284",
+    "data": [
+      {
+        "text": "Can you remove the ",
+        "userDefined": false
+      },
+      {
+        "text": "margherita",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": false
+      },
+      {
+        "text": " from the basket?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

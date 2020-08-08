@@ -8,7 +8,7 @@ Our goal was to explore building a task oriented chatbot into an initial minimum
 <br />
 ![](Images/google-assistant.gif) <br />
 
-#### CONFIGURE DIALOGFLOW <br />
+#### CONFIGURE DIALOGFLOW ####
 1. Go to www.dialogflow.com and enter your Gmail credentials
 2. Create an agent in Dialogflow,import the Intent_Detection_Bot/test-agent.zip and enable the beta features as shown below.
 
@@ -25,7 +25,7 @@ Our goal was to explore building a task oriented chatbot into an initial minimum
 <br />
 ![](Images/cloud-deploy.gif)<br />
 
-#### INTENTS,ENTITIES AND CONFIDENCE INTERVAL <br />
+#### INTENTS,ENTITIES AND CONFIDENCE INTERVAL ####
 1. Consider the intent **search_business** that fetches details about a business given the name and user's location. We can add our own training phrases, map it with custom      entities and save it.
 2. While testing in the Dialogflow console, if the exact training phrase is entered, the intent matching confidence is high whereas, if the user query contains a mistake as shown below, the intent matching confidence is really low which indicates that the intents are poorly matched. The default confidence threshold is 0.3. 
 <br />
@@ -44,10 +44,12 @@ b)  <br />
      b) Location targeting -
      c) Surface capabilities -
      d) Release - There are two types of releases available. We have opted to go for a Alpha release as shown in the above gif. Additional Alpha Testers can be added so that      they can access our agent via their personal Google Assistant via smartphones/Google Home etc.
-### NOTE: Testers should provide us with their personal email id so that we can add them as Alpha testers and grant access for testing our Intent Detection Bot. Please mail your personal email id to phaterpekar.ankit@gmail.com or os.nandhu@gmail.com
+#### NOTE: Testers should provide us with their personal email id so that we can add them as Alpha testers and grant access for testing our Intent Detection Bot. Please mail your personal email id to phaterpekar.ankit@gmail.com or os.nandhu@gmail.com
 
 
 
+<br />
+![](Images/bot-creation.gif) <br />
 
 
 

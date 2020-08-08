@@ -8,30 +8,15 @@ Our goal was to explore building a task oriented chatbot into an initial minimum
 <br />
 ![](Images/google-assistant.gif) <br />
 
-<br />
-![](Images/bot-creation.gif) <br />
 #### CONFIGURE DIALOGFLOW ####
-1. Go to www.dialogflow.com and enter your Gmail credentials
-2. Create an agent in Dialogflow,import the Intent_Detection_Bot/test-agent.zip and enable the beta features as shown below.
-
-<br />
-![](Images/bot-creation.gif) <br />
-
-3.The intents, entities will be added automatically after the importation
-
-<br />
-![](Images/intent-entities.gif)<br />
-
-4. Go to fulfillments section and enable Inline Editor. Copy and paste the cloud functions codes present in Intent_Detection_Bot/function_source/index.js under index.js and Intent_Detection_Bot/function_source/package.json under package.json and deploy it.
-
-<br />
-![](Images/cloud-deploy.gif)<br />
+1. Go to www.dialogflow.com and enter your Gmail credentials <br />
+2. Create an agent in Dialogflow,import the Intent_Detection_Bot/test-agent.zip and enable the beta features as shown above.<br /> ![](Images/bot-creation.gif) <br />
+3.The intents, entities will be added automatically after the importation. <br />![](Images/intent-entities.gif)<br />
+4. Go to fulfillments section and enable Inline Editor. Copy and paste the cloud functions codes present in Intent_Detection_Bot/function_source/index.js under index.js and Intent_Detection_Bot/function_source/package.json under package.json and deploy it. <br />![](Images/cloud-deploy.gif)<br />
 
 #### INTENTS,ENTITIES AND CONFIDENCE INTERVAL ####
-1. Consider the intent **search_business** that fetches details about a business given the name and user's location. We can add our own training phrases, map it with custom      entities and save it.
-2. While testing in the Dialogflow console, if the exact training phrase is entered, the intent matching confidence is high whereas, if the user query contains a mistake as shown below, the intent matching confidence is really low which indicates that the intents are poorly matched. The default confidence threshold is 0.3. 
-<br />
-![](Images/confidence.gif) <br />
+1. Consider the intent **search_business** that fetches details about a business given the name and user's location. We can add our own training phrases, map it with custom      entities and save it.<br />
+2. While testing in the Dialogflow console, if the exact training phrase is entered, the intent matching confidence is high whereas, if the user query contains a mistake as shown below, the intent matching confidence is really low which indicates that the intents are poorly matched. The default confidence threshold is 0.3.<br />![](Images/confidence.gif) <br />
 
 ### INTEGRATION OF AGENT WITH GOOGLE ASSISTANT <br />
 a)  <br />

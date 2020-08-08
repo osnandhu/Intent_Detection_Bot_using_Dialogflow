@@ -8,6 +8,8 @@ Our goal was to explore building a task oriented chatbot into an initial minimum
 <br />
 ![](Images/google-assistant.gif) <br />
 
+<br />
+![](Images/bot-creation.gif) <br />
 #### CONFIGURE DIALOGFLOW ####
 1. Go to www.dialogflow.com and enter your Gmail credentials
 2. Create an agent in Dialogflow,import the Intent_Detection_Bot/test-agent.zip and enable the beta features as shown below.

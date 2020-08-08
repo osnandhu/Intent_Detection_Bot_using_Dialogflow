@@ -39,17 +39,15 @@ a)  <br />
     
 b)  <br />
     ![](Images/deploy-release.gif) <br />
-    As shown here, there are various steps available in Deploy tab:
-     a) Directory Information - 
-     b) Location targeting -
-     c) Surface capabilities -
+    As shown here, there are various steps available in Deploy tab:<br />
+     a) Directory Information - <br />
+     b) Location targeting - <br />
+     c) Surface capabilities -<br />
      d) Release - There are two types of releases available. We have opted to go for a Alpha release as shown in the above gif. Additional Alpha Testers can be added so that      they can access our agent via their personal Google Assistant via smartphones/Google Home etc.
 #### NOTE: Testers should provide us with their personal email id so that we can add them as Alpha testers and grant access for testing our Intent Detection Bot. Please mail your personal email id to phaterpekar.ankit@gmail.com or os.nandhu@gmail.com
 
 
 
-<br />
-![](Images/bot-creation.gif) <br />
 
 
 

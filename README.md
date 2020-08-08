@@ -1,5 +1,5 @@
 ### DS5500 Project 2 : Intent Detection Bot using Dialogflow
-##### *** Link for Project Documentation :
+##### ***Link for Project Documentation : https://github.com/osnandhu/DS5500_Project_Intent_Detection_Bot_using_Dialogflow/blob/master/DS5500_Project_Documentation.pdf***
 ##### ***Professor In-Charge: Andrew Therriault***
 ##### ***Project Partners : Ankit Phaterpekar, Nanditha Sundararajan***
 

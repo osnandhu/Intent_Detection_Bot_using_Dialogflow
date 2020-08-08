@@ -11,12 +11,17 @@ Our goal was to explore building a task oriented chatbot into an initial minimum
 #### CONFIGURE DIALOGFLOW <br />
 1. Go to www.dialogflow.com and enter your Gmail credentials
 2. Create an agent in Dialogflow,import the Intent_Detection_Bot/test-agent.zip and enable the beta features as shown below.
+
 <br />
 ![](Images/bot-creation.gif) <br />
+
 3.The intents, entities will be added automatically after the importation
+
 <br />
 ![](Images/intent-entities.gif)<br />
+
 4. Go to fulfillments section and enable Inline Editor. Copy and paste the cloud functions codes present in Intent_Detection_Bot/function_source/index.js under index.js and Intent_Detection_Bot/function_source/package.json under package.json and deploy it.
+
 <br />
 ![](Images/cloud-deploy.gif)<br />
 

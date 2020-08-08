@@ -14,9 +14,9 @@ Our goal was to explore building a task oriented chatbot into an initial minimum
 2. Create an agent in Dialogflow,import the Intent_Detection_Bot/test-agent.zip and enable the beta features as shown above.<br /> ![](Images/bot-creation.gif) <br />
 3. The intents, entities will be added automatically after the importation. <br />![](Images/intent-entities.gif)<br />
 4. Go to fulfillments section and enable Inline Editor. Link the project to your GCP Billing Account Copy and paste the cloud functions codes present in Intent_Detection_Bot/function_source/index.js under index.js and Intent_Detection_Bot/function_source/package.json under package.json and deploy it. <br />![](Images/cloud-deploy.gif)<br />
-5. Click on "View execution logs in Google Cloud console". In the Log viewer, we can see the log entries according to our current entries and custom fields represented by a structured JSON and are helpful during Troubleshooting.
+5. Click on "View execution logs in Google Cloud console". In the Log viewer, we can see the log entries according to our current entries and custom fields represented by a structured JSON and are helpful during Troubleshooting. <br />![](Images/GCP.gif)<br />
 
-The Cloud Functions in GCP serve as a connecting layer allowing us to weave logic between GCP services by listening for and responding to events. From the above gif, we can see that the Firebase fulfillment functions(index.json and package.json). It could be seen as a platform for Testing the cloud functions and to view logs.
+The Cloud Functions in GCP serve as a connecting layer allowing us to weave logic between GCP services by listening for and responding to events. From the above gif, we can see that the Firebase fulfillment functions(index.json and package.json). It could be seen as a platform for Testing the cloud functions and to view logs.<br />
 
 #### INTENTS,ENTITIES AND CONFIDENCE INTERVAL ####
 1. Consider the intent **search_business** that fetches details about a business given the name and user's location. We can add our own training phrases, map it with custom      entities and save it.<br />
@@ -37,7 +37,7 @@ b)  <br />
      d) Release - There are two types of releases available. We have opted to go for a Alpha release as shown in the above gif. Additional Alpha Testers can be added so that         they can access our agent via their personal Google Assistant via smartphones/Google Home etc.
 #### NOTE: Testers should provide us with their personal email id so that we can add them as Alpha testers and grant access for testing our Intent Detection Bot. Please email your personal email id to phaterpekar.ankit@gmail.com or os.nandhu@gmail.com <br />
 
-#### REFERENCES #### <br />
+#### REFERENCES <br />
 1.	https://cloud.google.com/dialogflow/docs <br />
 2.	https://www.coursera.org/learn/conversational-experiences-dialogflow <br />
 3.	https://firebase.google.com/docs/database <br />

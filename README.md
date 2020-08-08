@@ -30,12 +30,26 @@ Our Agent can be integrated with Google Assistant via the one-click integration 
     
 b)  <br />
     ![](Images/deploy-release.gif) <br />
-    As shown here, there are various steps available in Deploy tab:<br />
-     a) Directory Information <br />
-     b) Location targeting <br />
-     c) Surface capabilities <br />
-     d) Release - There are two types of releases available. We have opted to go for a Alpha release as shown in the above gif. Additional Alpha Testers can be added so that      they can access our agent via their personal Google Assistant via smartphones/Google Home etc.
-#### NOTE: Testers should provide us with their personal email id so that we can add them as Alpha testers and grant access for testing our Intent Detection Bot. Please mail your personal email id to phaterpekar.ankit@gmail.com or os.nandhu@gmail.com
+    Before publishing our agent, we need to provide information about our Actions. <br />
+     a) Directory Information : Promotes and highlights our Action's capabilities and provides everything a user has to know about our Action<br />
+     b) Location targeting : Localise our Actions for the Google Assistant to provide customised experience for different languages and locals the users can set on their             devices<br />
+     c) Surface capabilities: Offers control whether or not users can invoke our Action based on the surface they are using.They get an error message if they use an                   unsupported surface/device. <br />
+     d) Release - There are two types of releases available. We have opted to go for a Alpha release as shown in the above gif. Additional Alpha Testers can be added so that         they can access our agent via their personal Google Assistant via smartphones/Google Home etc.
+#### NOTE: Testers should provide us with their personal email id so that we can add them as Alpha testers and grant access for testing our Intent Detection Bot. Please email your personal email id to phaterpekar.ankit@gmail.com or os.nandhu@gmail.com <br />
+
+#### REFERENCES #### <br />
+1.	https://cloud.google.com/dialogflow/docs <br />
+2.	https://www.coursera.org/learn/conversational-experiences-dialogflow <br />
+3.	https://firebase.google.com/docs/database <br />
+4.	https://www.youtube.com/watch?v=Z3SR3gS8rF4&list=PLJLSPq0cTRmYmsO3kXuN-a2sg3ruoZV6x <br />
+5.	https://javascript.info/ <br />
+6.	https://www.yelp.com/fusion <br />
+7.	https://chatbotslife.com/building-chatbots-using-dialogflow-on-google-assistant-for-beginners-1e91cf355abb?gi=7445dfa68548 <br />
+8.	https://cogint.ai/3-methods-for-connecting-a-phone-call-to-dialogflow/ <br />
+9.	https://comparecamp.com/dialogflow-review-pricing-pros-cons-features/ <br />
+10.	https://link.springer.com/chapter/10.1007/978-1-4842-5741-8_2 <br />
+
+
 
 
 

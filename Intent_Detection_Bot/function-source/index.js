@@ -79,7 +79,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
     }                       
   }
   // YELP 
-  var yelp_apiKey = 'ibNaNslAtMIT8-MoDoyEMyny3aVuylvRkK40LXypzY9Nfip5G525uVkuDHDT5MMH2ZbSOq6RS1xQztovj6o1aFkya_YRxmKB7ovfs5KbQXH5t5hsyt4GT1UKZ_T4XnYx';
+  var yelp_apiKey = 'Enter YELP API key here';
   const client = yelp.client(yelp_apiKey);
   
   // Business Search
@@ -348,7 +348,7 @@ async function do_event_search(agent){
     var res_cuisine = agent.parameters.cuisine;
 
     const axios = require('axios');
-    var api_key = "AIzaSyBt6Ow2p6NJQY2XA65lw35ADis2TnQ3qPI";
+    var api_key = "Enter GCP Key Here";
     var user_location = JSON.stringify(res_location["street-address"]);
 
     var user_proximity;
